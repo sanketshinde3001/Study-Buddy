@@ -4,11 +4,9 @@ It can be used as a template to create sample repositories that can be added int
 
 Once you finish your sample and it gets merged, you can open a PR in the Daytona repo and submit the sample into the [index file](https://github.com/daytonaio/daytona/blob/main/hack/samples/index.json).
 
-# Sample <LANGUAGE/FRAMEWORK>
+# Flashcard and Quiz Generator with Daytona  <NEXTJS , Typescript , Tailwind , Shadcn>
 
-Sample description
-
----
+#### In this project, I developed an interactive Flashcard and Quiz Generator App using React, styled with Tailwind CSS, and enhanced with Shadcn UI components for a polished user experience.
 
 ## 🚀 Getting Started  
 
@@ -20,7 +18,6 @@ Sample description
    daytona create <SAMPLE_REPO_URL> 
    ```  
 
-... MORE STEPS IF NEEDED ...
 
 4. **Start the Application**:  
    ```bash  
@@ -31,4 +28,6 @@ Sample description
 
 ## ✨ Features  
 
-List of sample features (e.g. realtime chat app, standardized development environment with devcontainers)
+- Flashcard Generation: Users can create flashcards by entering a topic or concept. The app automatically generates flashcards with key terms, definitions, and helpful examples through internal logic or AI-based integration.
+
+- Interactive Quiz Generation: Users can generate quizzes based on a specific topic or concept. The app uses predefined logic (or AI) to create adaptive quizzes, delivering questions that help users assess and reinforce their knowledge.
